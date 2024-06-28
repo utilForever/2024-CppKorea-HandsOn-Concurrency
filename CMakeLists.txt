@@ -10,3 +10,4 @@ set(CMAKE_CXX_STANDARD 23)
 # Add example directories
 add_subdirectory("2_Example/01_Create_Thread")
 add_subdirectory("2_Example/02_Thread_Functions")
+add_subdirectory("2_Example/03_Wait_Kill_Detach")
